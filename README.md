@@ -1,6 +1,6 @@
 ##  PeghammerPCB&ファームウェア
 
-PCB発注用のガーバーデータは PCB → Gherberdata
+PCB発注用のガーバーデータは PCB → Gerberdata
 
 3Dプリント部品発注用のデータは PCB → knob(stl) 
 
