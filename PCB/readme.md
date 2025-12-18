@@ -1,18 +1,28 @@
-##  License (Hardware Design License)
-This PCB design for the **Peghammer** keyboard is licensed under the **Creative Commons Attribution-ShareAlike 4.0 International Public License (CC BY-SA 4.0)**.
-This means you are free to share and adapt this design, even for commercial purposes, provided you give appropriate credit to the original creator (`nishiiba`) and distribute your contributions under the same license.
-The full license text is available in the `LICENSE` file at the root of this repository.
----
-## Acknowledgements / Third-Party Assets
-This PCB design utilizes third-party footprints and symbols under their respective open-source licenses. We give credit to the original creators:
-### 1. BLE Micro Pro Assets (Footprints and Symbols)
-These assets are derived from the BLE Micro Pro project.
-* **Assets**: MCU footprints, boost converter footprints, schematic symbols
-* **Creator**: sekigon-gonnoc
-* **Source**: https://github.com/sekigon-gonnoc/BLE-Micro-Pro/tree/master/bmp-boost
-* **License**: MIT License
-### 2. Panelization Footprints
-* **Assets**: Panelization-related footprints
-* **Creator**: madworm
-* **Source**: https://github.com/madworm/Panelization.pretty
-* **License**: MIT License
+# Peghammer – Left-Hand Stick Keyboard
+
+Peghammer is a stick-style left-hand input device (keyboard).
+This repository contains the PCB design files for the Peghammer hardware.
+
+## License
+
+This project, **Peghammer**, is released under the  
+**CERN Open Hardware Licence Version 2 – Permissive (CERN-OHL-P-2.0)**.
+
+- You are free to use, modify, manufacture, and distribute this design.
+- Commercial use is permitted.
+- When redistributing this design or derivative works, you must give appropriate credit to the original author.
+
+See the [LICENSE](./LICENSE) file for full license text.  
+Official license reference: https://spdx.org/licenses/CERN-OHL-P-2.0.html
+
+## Contents
+
+- KiCad project files (`.kicad_pcb`, `.sch`, libraries, etc.)
+- Gerber files
+- Documentation and build guides (if provided)
+
+## Disclaimer
+
+This hardware design is provided “as is”, without any warranty.
+The author is not responsible for any damage, loss, or issues arising from
+the manufacture or use of this design.
