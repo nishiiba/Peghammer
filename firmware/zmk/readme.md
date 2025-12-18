@@ -1,13 +1,40 @@
-# Peghammer - ZMK Custom Firmware
+# Peghammer – ZMK Custom Firmware
 
-This repository contains the configuration and custom files for a Bluetooth-enabled mechanical keyboard firmware build.
+This directory contains the ZMK firmware configuration and custom files
+for the **Peghammer** Bluetooth-enabled left-hand stick keyboard.
 
 ## Attribution and License
-This configuration is a **fork** primarily derived from the repository maintained by **sekigon-gonnoc**. We thank sekigon-gonnoc for the original codebase.
-The **code in this repository** is licensed under the **MIT License**. The full text is in the `LICENSE` file.
-This firmware relies on **ZMK Firmware** (MIT License) and **Zephyr RTOS** (Apache License 2.0).
-Additionally, this project utilizes the following ZMK component: sekigon-gonnoc/zmk-component-bmp-boost, licensed under the **MIT License**.
-We adhere to all dependencies' license requirements.
-* **Fork Source Repository**: https://github.com/sekigon-gonnoc/zmk-bmp-boost-sample
 
+The ZMK configuration in this `zmk/` directory is primarily derived from
+the work maintained by **sekigon-gonnoc**.
+We thank sekigon-gonnoc for providing the original codebase and examples.
+
+- **Fork source repository**:  
+  https://github.com/sekigon-gonnoc/zmk-bmp-boost-sample
+
+## License
+
+The contents of this `firmware/zmk/` directory are licensed under the
+**MIT License**.
+
+This license applies **only** to the ZMK configuration and custom files
+contained in this directory.
+Other firmware implementations or hardware designs in this repository
+are licensed separately.
+
+See the [LICENSE](./LICENSE) file for the full license text.
+
+## Third-Party Software and Licenses
+
+This firmware configuration relies on the following third-party projects:
+
+- **ZMK Firmware** – MIT License  
+- **Zephyr RTOS** – Apache License 2.0  
+- **sekigon-gonnoc/zmk-component-bmp-boost** – MIT License  
+
+All applicable license terms of these dependencies are respected.
+
+## Disclaimer
+
+This firmware configuration is provided “as is”, without any warranty.
 
