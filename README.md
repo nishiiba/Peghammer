@@ -10,3 +10,16 @@ PCB発注用のガーバーデータは PCB → Gerberdata
 
 ■データの使用についてはライセンスの範囲内&自己責任でお願いします｡素人が作成したものなので設計ミスがあるかもしれません｡
 
+## Licensing
+
+This repository contains multiple components under different licenses:
+
+- **pcb/**  
+  Hardware design files are licensed under  
+  CERN Open Hardware Licence Version 2 – Permissive (CERN-OHL-P-2.0)
+
+- **firmware/**  
+  Firmware source code is licensed under its own license.  
+  See `firmware/LICENSE` for details.
+
+Each license applies only to its respective directory unless stated otherwise.
