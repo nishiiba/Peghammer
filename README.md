@@ -14,8 +14,7 @@ PCB発注用のガーバーデータは PCB → Gerberdata
 
 # Peghammer
 
-Peghammer is a stick-style left-hand input device (keyboard) designed for
-custom workflows, creative applications, and ergonomic input.
+Peghammer is a stick-style left-hand input device (keyboard).
 
 This repository contains the open-source hardware design and firmware
 implementations for the Peghammer project.
