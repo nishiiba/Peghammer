@@ -1,5 +1,5 @@
 ##  PeghammerPCB&ファームウェア
-
+![Peghammer – stick-type left-hand device](peghammer.jpg)
 PCB発注用のガーバーデータは PCB → Gerberdata
 
 3Dプリント部品発注用のデータは PCB → knob(stl) 
