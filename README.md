@@ -1,18 +1,25 @@
 ##  無線/有線左手デバイス Peghammer PCB&ファームウェア
 ![Peghammer – stick-type left-hand device](peghammer.jpg)
+漫画､イラスト製作に使用できる左手デバイス(スティック型キーボード)です｡
 
-PCB発注用のガーバーデータは PCB → Gerberdata
+詳細はビルドガイドを確認して下さい｡
 
-3Dプリント部品発注用のデータは PCB → knob(stl) 
+##  ビルドガイド (note)
+ **[Read the full build guide on note](https://note.com/xxxxx)**
 
-設計用のkicadデータは PCB → kicad 
+各データは以下からどうぞ｡
+ 
+PCB発注用ガーバーデータは PCB → Gerberdata
+
+3Dプリント部品発注用データは PCB → knob(stl) 
+
+設計用kicadデータは PCB → kicad 
 
 各種ファームウェアは　firmware
 
 ■データの使用についてはライセンスの範囲内&自己責任でお願いします｡
 
-##  ビルドガイド (note)
- **[Read the full build guide on note](https://note.com/xxxxx)**
+
  
 # Peghammer
 
