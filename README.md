@@ -12,7 +12,8 @@ PCB発注用のガーバーデータは PCB → Gerberdata
 ■データの使用についてはライセンスの範囲内&自己責任でお願いします｡
 
 ##  ビルドガイド (note)
-
+ **[Read the full build guide on note](https://note.com/xxxxx)**
+ 
 # Peghammer
 
 Peghammer is a stick-style left-hand input device (keyboard).
