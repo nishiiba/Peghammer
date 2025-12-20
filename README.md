@@ -2,20 +2,19 @@
 ![Peghammer – stick-type left-hand device](peghammer.jpg)
 漫画､イラスト製作に使用できる左手デバイス(スティック型キーボード)です｡
 
-詳細はビルドガイドを確認して下さい｡
+詳細はビルドガイド(note)を確認して下さい｡
 
-##  ビルドガイド (note)
  **[Read the full build guide on note](https://note.com/xxxxx)**
 
-各データは以下からどうぞ｡
+##  各データの保存先
  
-PCB発注用ガーバーデータは PCB → Gerberdata
+PCB発注用ガーバーデータ  PCB → Gerberdata
 
-3Dプリント部品発注用データは PCB → knob(stl) 
+3Dプリント部品発注用データ  PCB → knob(stl) 
 
-設計用kicadデータは PCB → kicad 
+設計用kicadデータ  PCB → kicad 
 
-各種ファームウェアは　firmware
+各種ファームウェア 　firmware
 
 ■データの使用についてはライセンスの範囲内&自己責任でお願いします｡
 
