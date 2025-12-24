@@ -4,7 +4,7 @@
 
 詳細はビルドガイド(note)を確認して下さい｡
 
- **[Read the full build guide on note](https://note.com/xxxxx)**
+ **https://note.com/nishiiba/n/n56c571a729d1**
 
 ##  各データの保存先
  
