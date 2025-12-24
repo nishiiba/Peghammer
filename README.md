@@ -1,4 +1,4 @@
-##  左手デバイス Peghammer PCB&ファームウェア
+##  Peghammer PCB&ファームウェア
 ![Peghammer – stick-type left-hand device](peghammer.jpg)
 漫画､イラスト製作に使用できる左手デバイス(スティック型キーボード)です｡
 
