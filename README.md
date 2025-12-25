@@ -8,8 +8,7 @@ Peghammer is an **open-source stick-style left-hand mechanical keyboard**
 designed for manga drawing and illustration workflows.
 It supports **Vial (wired)** and **ZMK (Bluetooth)** firmware.
 
-Peghammer は、漫画・イラスト制作向けに設計した  
-スティック型キーボード(左手デバイス)です。
+Peghammerは漫画・イラスト制作向けに設計したスティック型キーボード(左手デバイス)です。
 
 詳細はビルドガイド(note)を確認して下さい｡
 
