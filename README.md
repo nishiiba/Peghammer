@@ -1,6 +1,6 @@
 
 
-# Peghammer – スティック型キーボード PCB & ファームウェア
+# Peghammer –  PCB & ファームウェア
 
 ![Peghammer – stick-style left-hand mechanical keyboard](peghammer.jpg)
 
