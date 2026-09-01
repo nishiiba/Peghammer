@@ -33,7 +33,7 @@
 <img src="image/i001b.jpg" width="600">
 
 
-[3Dで全体を確認](ph.stl)
+[3Dで全体を確認](https://github.com/nishiiba/Peghammer/blob/main/docs/ph.stl)
 
 <br>
 
