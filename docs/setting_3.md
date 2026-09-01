@@ -127,7 +127,7 @@ zmkconf_pegh_pリポジトリを指定してinstallを押します
 使用するのが良いかと思います  
 
 DYA Studioはデバイス内の設定を変更するもの  
-keymap-editorはファームウェアを作り変えるものと考えて下さい
+keymap-editorはクラウド上でファームウェアを作り変えるものと考えて下さい
 
 <br>
 
