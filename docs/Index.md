@@ -2,7 +2,7 @@
 
 <br>
 
-<img src="image/i000.jpg" width="800">
+<img src="image/i000.jpg" width="600">
 
 <br>
 
