@@ -58,7 +58,7 @@ Keystone 56TR BATT CONTACT CLIP MULTIPLE SMD  x2
 
 マスキングテープ  
 ピンセット(先の曲がったもの)  
-
+保護メガネ
 
 
 <br><br>
